@@ -1,7 +1,7 @@
 ### Saudações Alvinegras
 
 ## Eu
-Olá, meu nome é **Arthur Vital**. Sou aluno do Instituto Federal, cursando o primeiro ano do curso técnico em informática. Sou um grande amante de futebol e torcedor do clube Botafogo de Futebol e Regatas. Estou constantemente buscando aprimorar minhas habilidades em programação.
+Olá, meu nome é **Arthur Vital**. Sou aluno do Instituto Federal, cursando o primeiro ano do curso técnico em informática. Sou um grande amante de futebol e torcedor do clube Botafogo de Futebol e Regatas. Sempre buscando evoluir!
 
 ## Linguagens:
 Estou aprendendo as linguagens de programação:

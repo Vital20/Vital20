@@ -1,6 +1,6 @@
 ### Saudações Alvinegras
 
-## Eu
+## Sobre mim
 Olá, meu nome é **Arthur Vital**. Sou aluno do Instituto Federal, cursando o primeiro ano do curso técnico em informática. Sou um grande amante de futebol e torcedor do clube Botafogo de Futebol e Regatas. Sempre buscando evoluir!
 
 ## Linguagens:
